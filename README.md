@@ -53,10 +53,8 @@
 ### 🌐 Social Links
 
 <p align="center">
-  <a href="https://facebook.com/profile.php?id=61577170528426"><img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  
-  <a href="https://www.linkedin.com/feed/"><img src="https://www.linkedin.com/feed/" /></a>
-  <a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q"><img src="" /></a>
+ <a href="https://www.linkedin.com/feed/"><img src="https://www.linkedin.com/feed/" /></a>
+  <a href="https://www.youtube.com/@THEBANGLADESHTIMES-x4k"><img src="" /></a>
   href="https://www.linkedin.com/feed/"
   
 </p>
