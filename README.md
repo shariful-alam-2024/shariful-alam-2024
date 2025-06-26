@@ -75,26 +75,37 @@
 
 ---
 
+
 ### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harun181&show_icons=true&count_private=true&theme=react" width="49.5%" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harun181&layout=compact&langs_count=8&theme=react" width="49.5%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harun181&show_icons=true&count_private=true&theme=react&hide_border=true" width="49.5%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harun181&layout=compact&langs_count=8&theme=react&hide_border=true" width="49.5%" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&theme=react-dark&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&theme=react-dark&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
 
 ---
 
 ### 📌 Highlighted Repositories
 
-[![Java Project](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&theme=react)](https://github.com/harun181/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&theme=react)](https://github.com/harun181/100_plus_C_Problems)
-[![Front-End Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&theme=react)](https://github.com/harun181/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&theme=react)](https://github.com/harun181/weblitical)
-
----
+<p align="center">
+  <a href="https://github.com/harun181/Java-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&theme=react" />
+  </a>
+  <a href="https://github.com/harun181/100_plus_C_Problems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&theme=react" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/harun181/front_end_projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&theme=react" />
+  </a>
+  <a href="https://github.com/harun181/weblitical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&theme=react" />
+  </a>
+</p>
 
 <div align="center">
   <strong>“Consistency is more important than speed.”</strong>
