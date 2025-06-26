@@ -2,8 +2,7 @@
   <img src="https://github.com/harun181/harun181/blob/main/code.png" alt="I am Shariful Alam" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm SHARIFUL ALAM</h1>
-<h3 align="center">🚀 Programmer | 🎨 Web Designer | 🎥 Content Creator | ⚡ Speed Learner</h3>
+<h1>🔹 Front-End Developer | React.js | JavaScript | HTML, CSS, Tailwind CSS | Building Responsive & User-Friendly Web Interfaces | Open to Work</h1>
 <h4 align="center">Student at <a href="https://web.programming-hero.com/">Programming Hero</a></h4>
 
 <p align="center">
