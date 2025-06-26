@@ -1,30 +1,30 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am shariful alam](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm SHARIFUL ALAM </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Student of Programing Hero</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills:  BOOTSTRAP / REACT / JS / HTML / CSS/mongodb/tailwind css
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently working on [Programming Hero](https://web.programming-hero.com/home)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning Golang, Mongo DB,next js 
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/shariful-alam-2024?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- my Linkdin account is( https://www.linkedin.com/feed/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
 - 📫 How to reach me **programmerharun@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[https://www.linkedin.com/feed/)
 
 <h3 align="left">Connect with me:</h3>
 
