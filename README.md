@@ -43,11 +43,10 @@
 ### 📫 Contact Me
 
 - Email: **programmerharun@gmail.com**
-- LinkedIn: [linkedin.com/in/harun181](https://www.linkedin.com/in/harun181)
-- YouTube: [Learn With Tutul](https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q)
+- LinkedIn: [linkedin.com/in/harun181](https://www.linkedin.com/feed/)
+- YouTube: [Learn With Tutul](https://www.youtube.com/@THEBANGLADESHTIMES-x4k)
 - Facebook: [Shariful Alam](https://www.facebook.com/profile.php?id=61577170528426)
-- Twitter: [@tutul181](https://twitter.com/tutul181)
-- Instagram: [@tutul_181](https://instagram.com/tutul_181)
+-
 
 ---
 
