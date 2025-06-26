@@ -43,7 +43,7 @@
 ### 📫 Contact Me
 
 - website :[working wobsite (https://web.programming-hero.com/)]
-- LinkedIn: [linkedin.com/in/harun181](https://www.linkedin.com/feed/)
+- LinkedIn: [linkdin accounts ](https://www.linkedin.com/feed/)
 - YouTube: [Learn With shariful](https://www.youtube.com/@THEBANGLADESHTIMES-x4k)
 - Facebook: [Shariful Alam](https://www.facebook.com/profile.php?id=61577170528426)
 -
