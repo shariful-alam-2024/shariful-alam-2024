@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGrtcn_YqQ/eH9ixPjzN7BueZ9eLboLfQ/edit?utm_content=DAGrtcn_YqQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="I am Shariful Alam" width="100%" />
+  <img src="" alt="I am Shariful Alam" width="100%" />
 </p>
 
 <h1>🔹 Front-End Developer | React.js | JavaScript | HTML, CSS, Tailwind CSS | Building Responsive & User-Friendly Web Interfaces | Open to Work</h1>
